@@ -8,8 +8,9 @@ Philia 1.0 program is a stock-flow consistent (SFC) model that shows how money c
 
 ## Files and Running the program
 Philia1.0.zip include all the modules.
-
+Philia-PRGM.docx displays the entire program by module in a WORD file.
 Technicalappendix_PHILIA.docx describes the SFC model and all the equations.
+
 
 To run the model in EVIEWS, you just need to launch 00-philia.
 
