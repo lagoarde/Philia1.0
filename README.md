@@ -1,4 +1,4 @@
-# Philia1.0
+# Philia 1.0
 Philia 1.0 program is a stock-flow consistent (SFC) model that shows how money circulates between different economic agents, households, businesses, government and banks, which can be run under EVIEWS:
 - It enables economic policies to be evaluated in a variety of scenarios, giving decision-makers a clear view of the potential advantages and disadvantages of their choices. 
 - It facilitates understanding of the interactions between economic sectors. 
@@ -6,15 +6,16 @@ Philia 1.0 program is a stock-flow consistent (SFC) model that shows how money c
 - It can be enriched to reflect the growing complexity of the economy, by integrating new modules to more faithfully represent how the economy really works. 
 - It takes into account the temporal dynamics to analyze the short- and long-term effects of economic policies. 
 
-## Files and Launch
+## Files and Run
 All the modules are included in Philia1.0.zip
 
 The SFC model and all the equations are described in the Technicalappendix_PHILIA.docx
 
 To run the model in EVIEWS, you just need to launch 00-philia.
+
 For each module, two files are available VP (for VARIABLES AND PARAMETERS) and EQ (for EQUATIONS).
 
-# Modules
+## Modules
 In the Philia 1.0 program, the various economic sectors have been segmented into modules for better analysis. 
 
 In all, there are 11 modules:
