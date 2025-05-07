@@ -6,7 +6,7 @@ Philia 1.0 program is a stock-flow consistent (SFC) model that shows how money c
 - It can be enriched to reflect the growing complexity of the economy, by integrating new modules to more faithfully represent how the economy really works. 
 - It takes into account the temporal dynamics to analyze the short- and long-term effects of economic policies. 
 
-## Files and Run
+## Files and Running the program
 All the modules are included in Philia1.0.zip
 
 The SFC model and all the equations are described in the Technicalappendix_PHILIA.docx
