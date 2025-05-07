@@ -7,9 +7,9 @@ Philia 1.0 program is a stock-flow consistent (SFC) model that shows how money c
 - It takes into account the temporal dynamics to analyze the short- and long-term effects of economic policies. 
 
 ## Files and Running the program
-All the modules are included in Philia1.0.zip
+Philia1.0.zip include all the modules.
 
-The SFC model and all the equations are described in the Technicalappendix_PHILIA.docx
+Technicalappendix_PHILIA.docx describes the SFC model and all the equations.
 
 To run the model in EVIEWS, you just need to launch 00-philia.
 
