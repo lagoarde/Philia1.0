@@ -16,9 +16,8 @@ To run the model in EVIEWS, you just need to launch 00-philia.
 For each module, two files are available VP (for VARIABLES AND PARAMETERS) and EQ (for EQUATIONS).
 
 ## Modules
-In the Philia 1.0 program, the various economic sectors have been segmented into modules for better analysis. 
+The model code is divided into several blocks, to allow macroeconomists to use the model and incorporate elements of Philia 1.0 for their own work. There are 13 modules:
 
-In all, there are 11 modules:
 -	Module 0: the full code 
 -	Module 1: GDP components, inflation and the total stock of productive capital
 -	Module 2: households: income, consumption, savings and portfolio choice 
