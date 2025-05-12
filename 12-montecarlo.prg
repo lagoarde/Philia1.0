@@ -2,7 +2,7 @@
 'INFORMATION
 
 ' To run the monto-carlo analysis you need
-' Run the scenario which you would like to test (here it is scenario 1
+' Run the scenario which you would like to test (here it is scenario 1)
 ' Identify the parameters which you would like to use
 'In this example chosen parameters are ad, v_c_3, lr_a1, lr_b_1, psi, sig_i_1, sig_i_2, gamma_i
 
@@ -40,7 +40,7 @@ series gamma_i!i = !mean_gamma_i + @sqrt(!var_psi)*nrnd
 next
 '
 
-!reps = 100 'nombre d'itérations 
+!reps = 100 'nombre d'itÃ©rations 
 for !i=1 to !reps
 philia.scenario(a= !i) "scenario 1" 'here we choose scenario 1 
 ecosystemic_shock=1
